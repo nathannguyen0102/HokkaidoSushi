@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@100;200;300;400;600;700;800&display=swap");
+
+:root {
+  --primary-dark: #0ea250;
+  --primary-light: #39b769;
+}
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    @apply font-[Rubik];
+  }
+
+  li {
+    @apply p-4 text-sm;
+  }
+
+  button {
+    @apply px-4 py-2 border bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white;
+  }
+
+  h2 {
+    @apply text-xl font-bold;
+  }
+}

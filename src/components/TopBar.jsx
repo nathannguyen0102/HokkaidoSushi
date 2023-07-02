@@ -7,7 +7,7 @@ const TopBar = () => {
         <h1 className="text-xl font-bold ">Hokkaido</h1>
       </div>
       <div>
-        <button className="">Reseravation</button>
+        <button className="hover:text-black">Reseravation</button>
       </div>
     </div>
   );

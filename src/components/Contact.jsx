@@ -43,7 +43,9 @@ const Contact = () => {
               cols="30"
               rows="10"
             ></textarea>
-            <button className="col-span-2 p-2 m-2">Submit</button>
+            <button className="col-span-2 p-2 m-2 hover:text-black">
+              Submit
+            </button>
           </div>
         </form>
       </div>

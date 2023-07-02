@@ -27,7 +27,7 @@ const Reservation = () => {
         </div>
         <div className="flex flex-col my-2 p-2">
           <label>Reservation</label>
-          <button>Submit</button>
+          <button className="hover:text-black">Submit</button>
         </div>
       </form>
     </div>

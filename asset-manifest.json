@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hokkaidoSushi/static/css/main.25edd107.css",
+    "main.js": "/hokkaidoSushi/static/js/main.51ab5b73.js",
+    "index.html": "/hokkaidoSushi/index.html",
+    "main.25edd107.css.map": "/hokkaidoSushi/static/css/main.25edd107.css.map",
+    "main.51ab5b73.js.map": "/hokkaidoSushi/static/js/main.51ab5b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25edd107.css",
+    "static/js/main.51ab5b73.js"
+  ]
+}
